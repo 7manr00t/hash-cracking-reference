@@ -74,8 +74,7 @@ to Security+ Domain 2 objectives.
   options for password hashing
 - Hash-related vulnerabilities consistently score high 
   on CVSS because the impact is always credential 
-  exposure — relevant to any GRC risk assessment
-
+  exposure
 ---
 
 ## How to Use
