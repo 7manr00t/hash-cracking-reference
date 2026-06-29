@@ -28,9 +28,6 @@ and how attackers exploit weak implementations.
 
 
 
-![GRC](https://img.shields.io/badge/Topic-GRC-darkgreen)
-
-
 
 ---
 
